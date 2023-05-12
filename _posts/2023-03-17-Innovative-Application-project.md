@@ -19,9 +19,9 @@ tags: [jekyll, ai]
 
 ---
 ## TBD
-類別: TBD <br>
+類別: 消防用UWB <br>
 
-目的: TBD<br>
+目的: 消防定位<br>
 
 ---
 ### 應用功能說明
