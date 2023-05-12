@@ -60,7 +60,7 @@ TBD
 ### 參考資料 (References)
 [1] DWM1001-DEV
 
-![](https://www.mouser.tw/ProductDetail/Qorvo/DWM1001-DEV?qs=TiOZkKH1s2T4sar5INj0ew%3D%3D)
+![]((https://www.mouser.tw/images/qorvo/images/DWM1001_new_SPL.jpg))
 
 [2] TBD
 ![](TBD)
