@@ -49,10 +49,10 @@ TBD
 ![](https://a.rimg.com.tw/c1/10a/f17/zhoudeping/b/9e/22319681726366_369.jpg)
 
 2. UWB球體應用 - KINEXON的德国物联网公司
-![](https://pic4.zhimg.com/80/v2-1f29bb5ced8b02a7407c83886e2474f7_720w.webp)
+![]([https://pic4.zhimg.com/80/v2-1f29bb5ced8b02a7407c83886e2474f7_720w.webp](https://pic4.zhimg.com/v2-1f29bb5ced8b02a7407c83886e2474f7_r.jpg))
 
 3. 標籤位置放置
-![](https://pic2.zhimg.com/80/v2-8663ff390c0479a02da920c8064abf7d_720w.webp)
+![]([https://pic2.zhimg.com/80/v2-8663ff390c0479a02da920c8064abf7d_720w.webp](https://pic2.zhimg.com/80/v2-8663ff390c0479a02da920c8064abf7d_720w.webp))
 
 4. 實時處理邊緣系統
 ![](https://pic1.zhimg.com/80/v2-bc9e5a450ea1183c0891c796b551513c_720w.webp)
