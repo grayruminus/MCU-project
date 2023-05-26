@@ -28,7 +28,6 @@ tags: [jekyll, ai]
 1. 賽後檢討
 2. 協助判讀違規
 3. 戰術版
-4. TBD
 
 ---
 ### 設計考量與相關技術
@@ -36,8 +35,6 @@ tags: [jekyll, ai]
 1. 轉播實時球員位置圖
 2. 配合VAR鷹眼技術確認球是否確實出界
 3. 配合ISR即時重播系統確認進球是否算分
-4. TBD
-5. 
 **所需相關技術：**<br>
 1. UWB locator
 2. 路徑規劃
@@ -51,11 +48,14 @@ TBD
 1. UWB定位模組 - DW1000
 ![](https://a.rimg.com.tw/c1/10a/f17/zhoudeping/b/9e/22319681726366_369.jpg)
 
-2. TBD
+2. UWB球體應用 - KINEXON的德国物联网公司
+![](https://pic4.zhimg.com/80/v2-1f29bb5ced8b02a7407c83886e2474f7_720w.webp)
 
-3. TBD
+3. 標籤位置放置
+![](https://pic2.zhimg.com/80/v2-8663ff390c0479a02da920c8064abf7d_720w.webp)
 
-4. TBD
+4. 實時處理邊緣系統
+![](https://pic1.zhimg.com/80/v2-bc9e5a450ea1183c0891c796b551513c_720w.webp)
 
 ---
 ### 參考資料 (References)
